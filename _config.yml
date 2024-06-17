@@ -20,11 +20,14 @@ author: Women in Cybersec
 ###############################################
 
 navbar-links:
+  Upcoming CTFs: "upcomingctfs"
 #   About Us: "aboutme"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
 #     - Learn markdown: "https://www.markdowntutorial.com/"
 #   Author's home: "https://deanattali.com"
+
+paginate-path: "/blog/page:num/"
 
 ################
 # --- Logo --- #
@@ -76,7 +79,7 @@ social-network-links:
 #  bluesky: yourname
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code" 
+  discord: "Gc8VWFAtPE" 
 #  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
