@@ -20,14 +20,14 @@ author: Women in Cybersec
 ###############################################
 
 navbar-links:
-  Upcoming Events: "blog"
+  Upcoming Events: "events"
 #   About Us: "aboutme"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
 #     - Learn markdown: "https://www.markdowntutorial.com/"
 #   Author's home: "https://deanattali.com"
 
-paginate-path: "/blog/page:num/"
+paginate-path: "/events/page:num/"
 
 ################
 # --- Logo --- #
