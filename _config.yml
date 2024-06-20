@@ -20,7 +20,7 @@ author: Women in Cybersec
 ###############################################
 
 navbar-links:
-  Upcoming Events: "events"
+  # Events: "events"
 #   About Us: "aboutme"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
